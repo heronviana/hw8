@@ -1,0 +1,59 @@
+/*rule for html-page*/
+header{
+	width: 900px;
+	min-height:150px;
+	margin: 0 auto;	
+}
+header h1, header p{
+	text-align:center;
+}
+
+section{
+	width: 1050px;
+	min-height:250px;
+	margin: 0 auto;	
+}
+
+#draw_board{
+	width: 90%;
+	min-height:70px;
+	margin: 0 auto;	
+}
+
+#letters{
+	background-size: cover;
+	background: url('scrabble-tile-holder-406774_640.png') 100% 100% no-repeat;
+	height:100px;	
+	width:700px;
+	margin: 0 auto;			
+	text-align:center;
+}
+#panel{
+	width:700px;
+	height:100px;
+	margin: 0px auto;	
+	margin-top:10px;
+	text-align:center;
+}
+
+
+.pieces{
+	width:45px;
+	padding:10px;
+}
+.cell{
+	width:55px;
+	padding:0px;
+	border: 1px solid #f4ead7;
+}
+.hover{
+	border: 1px solid red;
+}
+
+.active{
+	border: 1px solid green;
+}
+
+.normal{
+	border: 1px solid #f4ead7;
+}
