@@ -1,3 +1,10 @@
+/*game.js
+Heron Melo
+heron_melo@student.uml.edu
+Student of GUI Programming I 91.61 - UML
+File Created on: 12/10/2020
+In this assignment we are developing an scrabble game. /*
+
 /*global variables which used in program*/
 const NUMBER_PICES=100;
 const MAX_PIECES=7;
