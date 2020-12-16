@@ -13,3 +13,7 @@ and etc.
 
 Also game.js contains part which call when document is load. This part call sequence of functions which generate board, cards, and add function for drag&drop.
 All base elements of the program works (shuffle letter, calculate score, add new letters, take into account special cells of the board).
+
+https://github.com/heronviana/hw8
+
+https://heronviana.github.io/hw8/hw8
